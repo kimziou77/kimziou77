@@ -7,7 +7,10 @@
 ### 📫 How to reach me: kimziou77@naver.com
 
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kimziou77)](https://github.com/anuraghazra/github-readme-stats)
+  [![kimziou77's github stats](https://github-readme-stats.vercel.app/api?username=kimziou77)](https://github.com/kimziou77)
+  
+  
+  [![kimziou77's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimziou77)](https://solved.ac/profile/kimziou77)
  
  
  
