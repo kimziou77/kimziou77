@@ -16,8 +16,8 @@ DeepLearning for Object detection
 
 
 ### 📫 Contact  
-kimziou77@naver.com
-
+kimziou77@naver.com  
+https://kimyo-s.tistory.com/
   
  
  
