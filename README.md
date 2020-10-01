@@ -1,8 +1,8 @@
-### Hello 👋  
+### Hello I'm [@Subin](https://github.com/kimziou77) 👋  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23474747&title_bg=%23FAC3EC&icon=&icon_color=%23F5F5F5&title=view&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 I'm a junior at Kwangwoon University
-- department of software & Immersive Media
+- software & Immersive Media
 <br>
 
 ### 🌱 I’m currently learning  
