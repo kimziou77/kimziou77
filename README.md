@@ -1,14 +1,8 @@
 ### Hello I'm [@Subin](https://github.com/kimziou77) 👋  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimziou77&count_bg=%23F8AAD7&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/kimziou77)
 
-I'm a junior at Kwangwoon University  
-software & Immersive Media
-<br>
-
 ### 🌱 I’m currently learning  
-Mixed Reality  
-Image Processing  
-DeepLearning for Object detection  
+Mixed Reality & Image Processing  
 <br>
 
 ### ⚡ Activity
