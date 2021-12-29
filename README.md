@@ -1,7 +1,4 @@
 
-### ⚡ Activity
-[![kimziou77's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimziou77)](https://solved.ac/profile/kimziou77)&nbsp;
-
 ### 📫 Contact  
 kimziou77@naver.com  
 
