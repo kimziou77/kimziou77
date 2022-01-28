@@ -1,5 +1,9 @@
-### Subin Kim (kimziou77)
+
+ <div align="center">
+ 
+ ### Subin Kim (kimziou77)
  hello ʕ •ɷ•ʔฅ✨
+ 
   #### 🛠 Skills
   <!-- https://simpleicons.org/ -->
 
@@ -33,6 +37,8 @@
 
 any question or talk [here](https://open.kakao.com/o/stiTI4Wc)  
 
+ </div>
+ 
 <!--
 
 **kimziou77/kimziou77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
