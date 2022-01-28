@@ -18,8 +18,9 @@
   ![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)&nbsp;
 
   ![Mysql](https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white)&nbsp;
-  
-<!--   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
+ 
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
+<!--  
   ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)&nbsp;
  -->
   ![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white)&nbsp;
