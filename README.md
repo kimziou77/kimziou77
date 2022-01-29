@@ -12,7 +12,7 @@
 
   ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)![](https://img.shields.io/badge/🐦-00599C?style=flat-square)&nbsp;
   ![Java](https://img.shields.io/badge/Java-EE7D0A?style=flat-square&logo=Java&logoColor=white)![](https://img.shields.io/badge/🐦-EE7D0A?style=flat-square)&nbsp;
-  ![Javascript](https://img.shields.io/badge/Javascript🐣-ffb13b?style=flat-square&logo=javascript&logoColor=white)&nbsp;
+  ![Javascript](https://img.shields.io/badge/Javascript🐤-ffb13b?style=flat-square&logo=javascript&logoColor=white)&nbsp;
 
   ![spring](https://img.shields.io/badge/Spring🐣-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
   ![react](https://img.shields.io/badge/React🐣-61DAFB?style=flat-square&logo=React&logoColor=white)&nbsp;
@@ -28,9 +28,9 @@
   ![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)&nbsp;
   ![notion](https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black)&nbsp;
  
-  |🐣|🐦|🦄|
-|---|---|---|
-|1년미만|1년이상|5년이상|
+  |🐣|🐤|🐦|🦄|
+|---|---|---|---|
+|1년미만|1년이상|3년이상|5년이상|
  
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimziou77&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
