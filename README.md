@@ -1,9 +1,12 @@
 
+ 
+
  <div align="center">
  
  ### Subin Kim (kimziou77)
- hello ʕ •ɷ•ʔฅ✨
- 
+back-end developer ( ฅ́˘ฅ̀*) ✨
+Try to think about the value of the code
+
   #### 🛠 Skills
   <!-- https://simpleicons.org/ -->
 
