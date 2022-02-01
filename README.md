@@ -4,8 +4,9 @@
  <div align="center">
  
  ### Subin Kim (kimziou77)
+ 
 back-end developer ( ฅ́˘ฅ̀*) ✨
-Try to think about the value of the code
+Try to think about the value of the code 
 
   #### 🛠 Skills
   <!-- https://simpleicons.org/ -->
@@ -47,7 +48,7 @@ Try to think about the value of the code
 <img href="https://open.kakao.com/o/stiTI4Wc" src="https://user-images.githubusercontent.com/41179265/151553258-97047a1a-959c-436f-97d2-2ab38d1a192b.png" width="20%" height="20%">
 
 any question or talk [here](https://open.kakao.com/o/stiTI4Wc)  
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subin-kim-195ba6190/)](https://www.linkedin.com/in/subin-kim-195ba6190/)
  </div>
  
 <!--
