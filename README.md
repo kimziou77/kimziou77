@@ -35,10 +35,18 @@ Try to think about the value of the code
   ![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)&nbsp;
   ![notion](https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black)&nbsp;
  
-  |🐣|🐤|🐦|🦄|
+<details>
+<summary> description</summary>
+<div markdown="1">
+
+|🐣|🐤|🐦|🦄|
 |---|---|---|---|
 |1년미만|1년이상|3년이상|5년이상|
  
+</div>
+</details>
+ 
+
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimziou77&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
