@@ -14,7 +14,6 @@ Try to think about the value of the code
 
   ![windows](https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white)&nbsp;
   ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)&nbsp;
-  ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=ubuntu&logoColor=white)&nbsp;
  
   ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)![](https://img.shields.io/badge/🐦-00599C?style=flat-square)&nbsp;
   ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/🐦-3776AB?style=flat-square)&nbsp;
