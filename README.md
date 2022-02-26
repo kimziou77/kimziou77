@@ -10,6 +10,7 @@ Try to think about the value of the code
 
   #### 🛠 Skills
   <!-- https://simpleicons.org/ -->
+ I've been working in this environment
 
   ![windows](https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white)&nbsp;
   ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)&nbsp;
