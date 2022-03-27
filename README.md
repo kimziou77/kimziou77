@@ -26,6 +26,7 @@ Try to think about the value of the code
 
 
   ![Mysql](https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white)
+ 
    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
 <!--  
   ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)&nbsp;
