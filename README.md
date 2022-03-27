@@ -15,19 +15,18 @@ Try to think about the value of the code
   ![windows](https://img.shields.io/badge/windows-0078D6?style=flat-square&logo=windows&logoColor=white)&nbsp;
   ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)&nbsp;
  
-  ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)![](https://img.shields.io/badge/🐦-00599C?style=flat-square)&nbsp;
-  ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)![](https://img.shields.io/badge/🐦-3776AB?style=flat-square)&nbsp;
-  ![Java](https://img.shields.io/badge/Java-EE7D0A?style=flat-square&logo=Java&logoColor=white)![](https://img.shields.io/badge/🐦-EE7D0A?style=flat-square)&nbsp;
-  ![Javascript](https://img.shields.io/badge/Javascript🐤-ffb13b?style=flat-square&logo=javascript&logoColor=white)&nbsp;
+  ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;
+  ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)&nbsp;
+  ![Java](https://img.shields.io/badge/Java-EE7D0A?style=flat-square&logo=Java&logoColor=white)&nbsp;
+  ![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)&nbsp;
  
-  ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)![](https://img.shields.io/badge/🐤-FF6F00?style=flat-square)&nbsp;
-  ![spring](https://img.shields.io/badge/Spring🐣-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
-  ![react](https://img.shields.io/badge/React🐣-61DAFB?style=flat-square&logo=React&logoColor=white)&nbsp;
+  ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)&nbsp;
+  ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
+  ![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)&nbsp;
 
 
-  ![Mysql](https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white)![](https://img.shields.io/badge/🐦-3766AB?style=flat-square)&nbsp;
- 
-   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>![](https://img.shields.io/badge/🐣-232F3E?style=flat-square)&nbsp;
+  ![Mysql](https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white)
+   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>&nbsp;
 <!--  
   ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)&nbsp;
  -->
@@ -36,18 +35,6 @@ Try to think about the value of the code
   ![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)&nbsp;
   ![notion](https://img.shields.io/badge/notion-eeeeee?style=flat-square&logo=notion&logoColor=black)&nbsp;
  
-<details>
-<summary> description</summary>
-<div markdown="1">
-
-|🐣|🐤|🐦|🦄|
-|---|---|---|---|
-|1년미만|1년이상|3년이상|5년이상|
- 
-</div>
-</details>
- 
-
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimziou77&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### 📫 Easy Contact  
