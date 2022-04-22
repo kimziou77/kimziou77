@@ -18,7 +18,6 @@ Try to think about the value of the code
   ![cpp](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)&nbsp;
   ![python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)&nbsp;
   ![Java](https://img.shields.io/badge/Java-EE7D0A?style=flat-square&logo=Java&logoColor=white)&nbsp;
-  ![Javascript](https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white)&nbsp;
  
   ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)&nbsp;
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
