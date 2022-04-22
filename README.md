@@ -22,7 +22,6 @@ Try to think about the value of the code
  
   ![tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)&nbsp;
   ![spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)&nbsp;
-  ![react](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)&nbsp;
 
 
   ![Mysql](https://img.shields.io/badge/Mysql-3766AB?style=flat-square&logo=Mysql&logoColor=white)
