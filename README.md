@@ -5,7 +5,7 @@
  
  ### Subin Kim (kimziou77)
  
-back-end developer ( ฅ́˘ฅ̀*) ✨
+back-end developer  ✨
 Try to think about the value of the code 
 
   #### 🛠 Skills
