@@ -37,10 +37,10 @@ Try to think about the value of the code
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimziou77&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 #### 📫 Easy Contact  
-<img href="https://open.kakao.com/o/stiTI4Wc" src="https://user-images.githubusercontent.com/41179265/151553258-97047a1a-959c-436f-97d2-2ab38d1a192b.png" width="20%" height="20%">
+ [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subin-kim-195ba6190/)](https://www.linkedin.com/in/subin-kim-195ba6190/)
+ 
+<img href="https://open.kakao.com/o/stiTI4Wc" src="https://user-images.githubusercontent.com/41179265/151553258-97047a1a-959c-436f-97d2-2ab38d1a192b.png" width="10%" height="10%">
 
-any question or talk [here](https://open.kakao.com/o/stiTI4Wc)  
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subin-kim-195ba6190/)](https://www.linkedin.com/in/subin-kim-195ba6190/)
  </div>
  
 <!--
