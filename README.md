@@ -4,9 +4,6 @@
  <div align="center">
  
  ### Subin Kim (kimziou77)
- 
-back-end developer  ✨
-Try to think about the value of the code 
 
   #### 🛠 Skills
   <!-- https://simpleicons.org/ -->
